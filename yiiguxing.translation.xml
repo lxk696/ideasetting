@@ -1,0 +1,66 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="/ Eagerly load the ContextClosedEvent class to avoid weird classloader issues // on application shutdown in WebLogic 8.1. (Reported by Dustin Woods.)" />
+      <item value="Tell the subclass to refresh the internal bean factory." />
+      <item value="Last step: publish corresponding event." />
+      <item value="Instantiate all remaining (non-lazy-init) singletons." />
+      <item value="localization" />
+      <item value="persistence" />
+      <item value="cancelling" />
+      <item value="Consider defining a bean named 'entityManagerFactory' in your configuration." />
+      <item value="Module directive expected" />
+      <item value="indicates abnormal termination." />
+      <item value="Termination status. By convention, a nonzero status code * indicates abnormal termination. *" />
+      <item value="Synchronize on the class object, causing any other thread * that attempts to initiate shutdown to stall indefinitely" />
+      <item value="Halt immediately on nonzero status" />
+      <item value="transient" />
+      <item value="Withdraw" />
+      <item value="Verify" />
+      <item value="Execution" />
+      <item value="in the supplied" />
+      <item value="embedded" />
+      <item value="associated" />
+      <item value="locates" />
+      <item value="Implementations are free to turn the metadata in the custom tag into as many * {@link BeanDefinition BeanDefinitions} as required." />
+      <item value="Definition" />
+      <item value="Callback that receives refresh events from this servlet's WebApplicationContext. * &lt;p&gt;The default implementation calls {@link #onRefresh}, * triggering a refresh of this servlet's context-dependent state. * @param event the incoming ApplicationContext event" />
+      <item value="Initialize the strategy objects that this servlet uses. * &lt;p&gt;May be overridden in subclasses in order to initialize further strategy objects." />
+      <item value="Check registered HandlerExceptionResolvers..." />
+      <item value="Determine an error ModelAndView via the registered HandlerExceptionResolvers." />
+      <item value="Subclasses must implement this method to do the work of request handling, * receiving a centralized callback for GET, POST, PUT and DELETE. * &lt;p&gt;The contract is essentially the same as that for the commonly overridden * {@code doGet} or {@code doPost} methods of HttpServlet. * &lt;p&gt;This class intercepts calls to ensure that exception handling and * event publication takes place." />
+      <item value="Exposes the DispatcherServlet-specific request attributes and delegates to {@link #doDispatch}for the actual dispatching." />
+      <item value="Concurrent handling started during a forward" />
+      <item value="Handle the result of handler selection and handler invocation, which is * either a ModelAndView or an Exception to be resolved to a ModelAndView" />
+      <item value="Did the handler return a view to render" />
+      <item value="As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
+      <item value="invoke the handler" />
+      <item value="handler" />
+      <item value="Actually invoke the handler." />
+      <item value="Process last-modified header, if supported by the handler." />
+      <item value="Determine handler adapter for the current request." />
+      <item value="Determine handler for the current request." />
+      <item value="Clean up any resources used by a multipart request." />
+      <item value="Apply afterConcurrentHandlerStarted callback on mapped AsyncHandlerInterceptors." />
+      <item value="Instead of postHandle and afterCompletion" />
+      <item value="Whether the selected handler for the current request chose to handle the * request asynchronously. A return value of &quot;true&quot; indicates concurrent * handling is under way and the response will remain open. A return value * of &quot;false&quot; means concurrent handling was either not started or possibly * that it has completed and the request was dispatched for further * processing of the concurrent result." />
+      <item value="Handle the result of handler selection and handler invocation, which is * either a ModelAndView or an Exception to be resolved to a ModelAndView." />
+      <item value="Trigger afterCompletion callbacks on the mapped HandlerInterceptors. * Will just invoke afterCompletion for all interceptors whose preHandle invocation * has successfully completed and returned true." />
+      <item value="Well-known name for the HandlerAdapter object in the bean factory for this namespace. * Only used when &quot;detectAllHandlerAdapters&quot; is turned off" />
+      <item value="detect" />
+      <item value="adapter" />
+      <item value="Determine" />
+      <item value="Determine handler for the current request" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="78" />
+        <entry key="ENGLISH" value="79" />
+        <entry key="DANISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
