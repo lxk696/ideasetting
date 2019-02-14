@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="time spent sleeping to enforce rate, in seconds; 0.0 if not rate-limited" />
+      <item value="Smooth Warming Up" />
       <item value="/ Eagerly load the ContextClosedEvent class to avoid weird classloader issues // on application shutdown in WebLogic 8.1. (Reported by Dustin Woods.)" />
       <item value="Tell the subclass to refresh the internal bean factory." />
       <item value="Last step: publish corresponding event." />
@@ -49,13 +51,11 @@
       <item value="Well-known name for the HandlerAdapter object in the bean factory for this namespace. * Only used when &quot;detectAllHandlerAdapters&quot; is turned off" />
       <item value="detect" />
       <item value="adapter" />
-      <item value="Determine" />
-      <item value="Determine handler for the current request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
