@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ReflectionUtil.getCallerClass will be much slower due to this. java.lang.ClassNotFoundException: sun.reflect.Reflection" />
+      <item value="transitive" />
+      <item value="transitive dependencies (if any) will not be available, enable debug logging for more details" />
       <item value="mutex" />
       <item value="representing" />
       <item value="Time unit representing one second" />
@@ -48,14 +51,11 @@
       <item value="Process last-modified header, if supported by the handler." />
       <item value="Determine handler adapter for the current request." />
       <item value="Determine handler for the current request." />
-      <item value="Clean up any resources used by a multipart request." />
-      <item value="Apply afterConcurrentHandlerStarted callback on mapped AsyncHandlerInterceptors." />
-      <item value="Instead of postHandle and afterCompletion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
