@@ -3,7 +3,9 @@
     <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="lua&quot;" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
