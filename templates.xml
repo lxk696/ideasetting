@@ -3,6 +3,10 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="other" />
+          <option name="key" value="psvm" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="jsf" />
           <option name="key" value="tldTag" />
         </TemplateKey>

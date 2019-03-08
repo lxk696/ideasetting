@@ -1,12 +1,20 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Gsonformat" />
   <action id="HippieCompletion" />
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift ctrl delete" />
+  </action>
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SonarLint.AnalyzeFiles" />
+  <action id="Unwrap" />
 </keymap>

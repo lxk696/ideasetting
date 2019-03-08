@@ -24,12 +24,25 @@
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="Console.Jpa.GenerateSql" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
+  <action id="EditorScrollDownAndMove">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
   <action id="EditorScrollToCenter" />
+  <action id="EditorScrollUpAndMove">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
@@ -39,22 +52,33 @@
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
+  <action id="FileChooser.TogglePathShowing">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindBugs.ChangesViewToolbar.ActiveChangeListAction" />
+  <action id="FindBugs.DefaultChangeListAction" />
+  <action id="FindNext" />
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="shift alt s" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
-  <action id="Images.Editor.ActualSize">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
-  </action>
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift alt a" />
   </action>
   <action id="IntroduceField">
     <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="shift alt l" />
   </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
@@ -71,6 +95,9 @@
   </action>
   <action id="ScrollTreeToCenter" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
@@ -79,11 +106,12 @@
   <action id="ShowUmlDiagram">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
-  <action id="UML.ActualSize">
-    <keyboard-shortcut first-keystroke="ctrl divide" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
   <action id="Unwrap" />
   <action id="Vcs.Log.ShowAllAffected" />
+  <action id="Vcs.Push" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>

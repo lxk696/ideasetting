@@ -1,26 +1,24 @@
 <application>
   <component name="libraryTable">
-    <library name="scala-sdk-2.12.1" type="Scala">
+    <library name="scala-sdk-2.11.8" type="Scala">
       <properties>
         <compiler-classpath>
-          <root url="file://D:/soft/scala/lib/scala-compiler.jar" />
-          <root url="file://D:/soft/scala/lib/scala-library.jar" />
-          <root url="file://D:/soft/scala/lib/scala-reflect.jar" />
+          <root url="file://F:/itsoft/scala-2.11.8zip/lib/scala-compiler.jar" />
+          <root url="file://F:/itsoft/scala-2.11.8zip/lib/scala-library.jar" />
+          <root url="file://F:/itsoft/scala-2.11.8zip/lib/scala-reflect.jar" />
         </compiler-classpath>
       </properties>
       <CLASSES>
-        <root url="jar://D:/soft/scala/lib/scala-library.jar!/" />
-        <root url="jar://D:/soft/scala/lib/scala-parser-combinators_2.12-1.0.4.jar!/" />
-        <root url="jar://D:/soft/scala/lib/scala-reflect.jar!/" />
-        <root url="jar://D:/soft/scala/lib/scala-swing_2.12-2.0.0-M2.jar!/" />
-        <root url="jar://D:/soft/scala/lib/scala-xml_2.12-1.0.6.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-actors-2.11.0.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-actors-migration_2.11-1.1.0.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-library.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-parser-combinators_2.11-1.0.4.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-reflect.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-swing_2.11-1.0.2.jar!/" />
+        <root url="jar://F:/itsoft/scala-2.11.8zip/lib/scala-xml_2.11-1.0.4.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://D:/soft/scala/api/jars/scala-library-2.12.1-javadoc.jar!/" />
-        <root url="jar://D:/soft/scala/api/jars/scala-parser-combinators_2.12-1.0.4-javadoc.jar!/" />
-        <root url="jar://D:/soft/scala/api/jars/scala-reflect-2.12.1-javadoc.jar!/" />
-        <root url="jar://D:/soft/scala/api/jars/scala-swing_2.12-2.0.0-M2-javadoc.jar!/" />
-        <root url="jar://D:/soft/scala/api/jars/scala-xml_2.12-1.0.6-javadoc.jar!/" />
+        <root url="http://www.scala-lang.org/api/2.11.8/" />
       </JAVADOC>
       <SOURCES />
     </library>

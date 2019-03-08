@@ -40,7 +40,7 @@
     </context>
   </template>
   <template name="log" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);&#10;$END$&#10;" description="生成slf4j" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -56,7 +56,7 @@
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="msgss" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="paramsPlaceholder" expression="groovyScript(&quot;_1.collect { it + ' = [{}]'}.join(', ')&quot;, methodParameters());" defaultValue="" alwaysStopAt="false" />
-    <variable name="params" expression=" groovyScript(&quot;_1.collect{it}.join(',')&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
+    <variable name="params" expression="groovyScript(&quot;_1.collect{it}.join(',')&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -79,7 +79,14 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logerr" value="log.error(e.getMessage(), e);" description="打印错误日志" toReformat="false" toShortenFQNames="true">
+  <template name="md" value=" public void $method$($params$ $params$){&#10;    $END$&#10; }" description="生成方法" toReformat="false" toShortenFQNames="true">
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="logerr" value=" logger.error(e.getMessage(), e);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

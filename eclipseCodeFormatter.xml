@@ -2,11 +2,9 @@
   <component name="EclipseCodeFormatterSettings">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="16178" />
-        <option name="firstUsage" value="1542634175387" />
+        <option name="actionsExecuted" value="47" />
+        <option name="firstUsage" value="1552035459227" />
         <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
-        <option name="lastDonationDate" value="1543397423773" />
-        <option name="lastNaggingDate" value="1543397413417" />
       </DonationNagger>
     </option>
     <option name="settingsList">
@@ -20,10 +18,6 @@
           <option name="optimizeImports" value="false" />
           <option name="pathToConfigFileJava" value="$APPLICATION_HOME_DIR$/eclipse-java-bbt-style.xml" />
           <option name="selectedJavaProfile" value="BBT_Style" />
-        </Settings>
-        <Settings>
-          <option name="id" value="1542683622459" />
-          <option name="name" value="new (1)" />
         </Settings>
       </list>
     </option>
