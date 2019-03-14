@@ -5,6 +5,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="lua&quot;" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
     </extensionMap>
