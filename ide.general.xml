@@ -11,6 +11,5 @@
     <entry key="compiler.automake.allow.when.app.running" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="vcs.annotations.preload" value="true" />
   </component>
 </application>
