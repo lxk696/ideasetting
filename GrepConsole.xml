@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="22" />
+        <option name="actionsExecuted" value="31" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -82,10 +82,17 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-8355712" />
@@ -96,8 +103,10 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="continueMatching" value="true" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -162,9 +171,11 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value="com.huayu" />
+                      <option name="grepExpression" value=".*com.huayu.*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
+                      <option name="showCountInConsole" value="true" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -174,6 +185,12 @@
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="italic" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -193,11 +210,23 @@
                       <option name="action" value="REMOVE" />
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="sound">
+                        <Sound>
+                          <option name="enabled" value="true" />
+                          <option name="path" value="F:\itsoft\IntelliJ-IDEA-2018.3.2\Cry On My Shoulder (clip).mp3" />
+                        </Sound>
+                      </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
                       <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="sound">
+                        <Sound>
+                          <option name="enabled" value="true" />
+                          <option name="path" value="F:\itsoft\IntelliJ-IDEA-2018.3.2\Cry On My Shoulder (clip).mp3" />
+                        </Sound>
+                      </option>
                     </GrepExpressionItem>
                   </list>
                 </option>

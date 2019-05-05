@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="自定义" />
       <item value="Consider any of the following:" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of javax.validation.BootstrapConfiguration" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary" />
@@ -50,7 +51,6 @@
       <item value="Handle the result of handler selection and handler invocation, which is * either a ModelAndView or an Exception to be resolved to a ModelAndView" />
       <item value="Did the handler return a view to render" />
       <item value="As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
-      <item value="invoke the handler" />
     </histories>
     <option name="languageScores">
       <map>
