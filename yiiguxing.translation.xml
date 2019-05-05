@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Package" />
       <item value="自定义" />
       <item value="Consider any of the following:" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of javax.validation.BootstrapConfiguration" />
@@ -50,12 +51,11 @@
       <item value="Concurrent handling started during a forward" />
       <item value="Handle the result of handler selection and handler invocation, which is * either a ModelAndView or an Exception to be resolved to a ModelAndView" />
       <item value="Did the handler return a view to render" />
-      <item value="As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
