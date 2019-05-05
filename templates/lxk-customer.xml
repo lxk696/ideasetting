@@ -39,30 +39,24 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="log" value="private static final org.slf4j.Logger logger = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);&#10;$END$&#10;" description="生成slf4j" toReformat="false" toShortenFQNames="true">
+  <template name="lg" value="private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);" description="生成slf4j" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lpm2" value="logger.$TYPE$($params$);" description="打印方法入参" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="logp2" value="LOG.info(&quot;【$msgss1$】 $paramsPlaceholder$&quot; ,new Object[]{$params$,$params$});" description="打印方法入参" toReformat="false" toShortenFQNames="true">
+    <variable name="msgss1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="paramsPlaceholder" expression="groovyScript(&quot;_1.collect { it + ' = [{}]'}.join(', ')&quot;, methodParameters());" defaultValue="" alwaysStopAt="true" />
     <variable name="params" expression="groovyScript(&quot;'\&quot;' + _1.collect { it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ') + '\&quot;'&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="lpm" value="logger.$TYPE$(&quot;$msgss$  $paramsPlaceholder$&quot; ,new Object[]{$params$});" description="slfj参数打印" toReformat="false" toShortenFQNames="true">
-    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="msgss" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="logp" value="LOG.info(&quot;【$msgss1$】 $paramsPlaceholder$&quot; ,$params$);" description="slfj参数打印" toReformat="false" toShortenFQNames="true">
+    <variable name="msgss1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="paramsPlaceholder" expression="groovyScript(&quot;_1.collect { it + ' = [{}]'}.join(', ')&quot;, methodParameters());" defaultValue="" alwaysStopAt="false" />
-    <variable name="params" expression="groovyScript(&quot;_1.collect{it}.join(',')&quot;, methodParameters())" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-  <template name="lptest" value=" logger.info(new Object[]{$params$}.toString());" description="test" toReformat="false" toShortenFQNames="true">
-    <variable name="params" expression="groovyScript(&quot;_1.collect { it }.join(', ')&quot;, methodParameters());" defaultValue="" alwaysStopAt="true" />
+    <variable name="params" expression="groovyScript(&quot;'\&quot;' + _1.collect { it + ' = [\&quot; + ' + it + ' + \&quot;]'}.join(', ') + '\&quot;'&quot;, methodParameters())" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -72,21 +66,22 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="time" value="long startTime = System.currentTimeMillis();&#10;logger.$type$(&quot;$msgs$ cost time is [{}]&quot;, System.currentTimeMillis() - startTime);" description="耗时日志" toReformat="false" toShortenFQNames="true">
-    <variable name="type" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="time" value="long startTime = System.currentTimeMillis();&#10;LOG.info(&quot;$msgs$ cost time is [{}ms]&quot;, System.currentTimeMillis() - startTime);" description="耗时日志" toReformat="false" toShortenFQNames="true">
     <variable name="msgs" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="md" value=" public void $method$($params$ $params$){&#10;    $END$&#10; }" description="生成方法" toReformat="false" toShortenFQNames="true">
-    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="loge" value="LOG.error(e.getMessage(), e);&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logerr" value=" logger.error(e.getMessage(), e);" description="" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="LOG.$TYPE$(&quot;【$msgss1$】$msgss2$ [{}]&quot; ,$msgss4$);" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="msgss1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="msgss2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="msgss4" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>

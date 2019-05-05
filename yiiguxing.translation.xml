@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Correct the classpath of your application so that it contains a single, compatible version of javax.validation.BootstrapConfiguration" />
       <item value="The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary" />
       <item value="m Count Down Latch" />
       <item value="set" />
@@ -50,12 +51,11 @@
       <item value="As of 4.3, we're processing Errors thrown from handler methods as well, // making them available for @ExceptionHandler methods and other scenarios." />
       <item value="invoke the handler" />
       <item value="handler" />
-      <item value="Actually invoke the handler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
