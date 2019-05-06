@@ -77,7 +77,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="log" value="LOG.$TYPE$(&quot;【$msgss1$】$msgss2$ [{}]&quot; ,$msgss4$);" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="LOG.$TYPE$(&quot;【$msgss1$】$msgss2$ [{}]&quot; ,$msgss4$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="msgss1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="msgss2" expression="" defaultValue="" alwaysStopAt="true" />
