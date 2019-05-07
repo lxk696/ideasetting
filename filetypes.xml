@@ -9,6 +9,7 @@
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="lua" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
+      <mapping pattern="DiyMapper.xml" type="XML" />
     </extensionMap>
   </component>
 </application>
