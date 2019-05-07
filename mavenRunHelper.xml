@@ -34,9 +34,6 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
-            <Goal>
-              <option name="commandLine" value="mvn dependency:tree -Dverbose -Dincludes=com.fasterxml.jackson.core:jackson-annotations" />
-            </Goal>
           </list>
         </option>
       </Goals>
