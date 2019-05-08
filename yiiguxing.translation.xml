@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="DOT_" />
+      <item value=" Injection" />
       <item value="Repository" />
       <item value="Flush mode for the Redis sessions. The default is {@code ON_SAVE} which only * updates the backing Redis when {@link SessionRepository#save(Session)} is invoked. * In a web environment this happens just before the HTTP response is committed. * &lt;p&gt; * Setting the value to {@code IMMEDIATE} will ensure that the any updates to the * Session are immediately written to the Redis instance. * @return the {@link RedisFlushMode} to use" />
       <item value="Defines a unique namespace for keys. The value is used to isolate sessions by * changing the prefix from default {@code spring:session:} to * {@code &lt;redisNamespace&gt;:}. * &lt;p&gt; * For example, if you had an application named &quot;Application A&quot; that needed to keep * the sessions isolated from &quot;Application B&quot; you could set two different values for * the applications and they could function within the same Redis instance." />
@@ -49,13 +51,11 @@
       <item value="Initialize the strategy objects that this servlet uses. * &lt;p&gt;May be overridden in subclasses in order to initialize further strategy objects." />
       <item value="Check registered HandlerExceptionResolvers..." />
       <item value="Determine an error ModelAndView via the registered HandlerExceptionResolvers." />
-      <item value="Subclasses must implement this method to do the work of request handling, * receiving a centralized callback for GET, POST, PUT and DELETE. * &lt;p&gt;The contract is essentially the same as that for the commonly overridden * {@code doGet} or {@code doPost} methods of HttpServlet. * &lt;p&gt;This class intercepts calls to ensure that exception handling and * event publication takes place." />
-      <item value="Exposes the DispatcherServlet-specific request attributes and delegates to {@link #doDispatch}for the actual dispatching." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="97" />
+        <entry key="ENGLISH" value="98" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
