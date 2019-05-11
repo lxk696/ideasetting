@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tenant" />
       <item value="representation" />
       <item value="DOT_" />
       <item value=" Injection" />
@@ -50,12 +51,11 @@
       <item value="Definition" />
       <item value="Callback that receives refresh events from this servlet's WebApplicationContext. * &lt;p&gt;The default implementation calls {@link #onRefresh}, * triggering a refresh of this servlet's context-dependent state. * @param event the incoming ApplicationContext event" />
       <item value="Initialize the strategy objects that this servlet uses. * &lt;p&gt;May be overridden in subclasses in order to initialize further strategy objects." />
-      <item value="Check registered HandlerExceptionResolvers..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
