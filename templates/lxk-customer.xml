@@ -86,7 +86,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="md" value="public $returenType$  $methodName$(){&#10;&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="md" value="public $returenType$  $methodName$(){&#10;&#10;    &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="returenType" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="methodName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
