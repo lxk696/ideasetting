@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="null Safe Equals" />
+      <item value="In AnnotationAttributes for annotation [org.springframework.context.annotation.Bean] declared on public org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor org.springframework.scheduling.annotation.SchedulingConfiguration.scheduledAnnotationProcessor(), attribute 'name' and its alias 'value' are declared with values of [{org.springframework.context.annotation.internalScheduledAnnotationProcessor}] and [{}], but only one is permitted." />
       <item value="Determine the encoding for the given request. * Can be overridden in subclasses. * &lt;p&gt;The default implementation checks the request encoding, * falling back to the default encoding specified for this resolver." />
       <item value="Thread starvation or clock leap detected (housekeeper delta=1m4s505ms136µs153ns)" />
       <item value="tenant" />
@@ -49,13 +51,11 @@
       <item value="embedded" />
       <item value="associated" />
       <item value="locates" />
-      <item value="Implementations are free to turn the metadata in the custom tag into as many * {@link BeanDefinition BeanDefinitions} as required." />
-      <item value="Definition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="102" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
