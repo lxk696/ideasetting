@@ -2,7 +2,7 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="36" />
+        <option name="actionsExecuted" value="38" />
         <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
         <option name="lastNaggingDate" value="0" />
@@ -36,7 +36,8 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*ERROR.*" />
+                      <option name="grepExpression" value=".*ERROR.{2}" />
+                      <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="sound">
                         <Sound>
@@ -57,7 +58,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*WARN.*" />
+                      <option name="grepExpression" value=".*WARN.{2}" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -73,7 +74,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="enabled" value="false" />
-                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="grepExpression" value=".*INFO" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="sound">
                         <Sound>
