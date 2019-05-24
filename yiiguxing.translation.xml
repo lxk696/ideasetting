@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="non-compatible bean definition of same name and class" />
+      <item value="conflicts with existing" />
       <item value="Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation." />
       <item value="transient" />
       <item value="combine" />
@@ -49,13 +51,11 @@
       <item value="Withdraw" />
       <item value="Verify" />
       <item value="Execution" />
-      <item value="in the supplied" />
-      <item value="embedded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
