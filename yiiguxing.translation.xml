@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Could not determine which parameter to assign generated keys to. Note that when there are multiple parameters, 'keyProperty' must include the parameter name (e.g. 'param.id'). Specified key properties are [iitt] and available parameters are [arg0, list, param1, param2]" />
+      <item value="Could not determine which parameter to assign generated keys to. Note that when there are multiple parameters, 'keyProperty' must include the parameter name (e.g. 'param.id'). Specified key properties are [iitt] and available parameters are [predicate, list, param1, param2]" />
       <item value="Batch" />
       <item value="Prefix must be in canonical form" />
       <item value="The set of profiles for which the annotated component should be registered." />
@@ -49,13 +51,11 @@
       <item value="Module directive expected" />
       <item value="indicates abnormal termination." />
       <item value="Termination status. By convention, a nonzero status code * indicates abnormal termination. *" />
-      <item value="Synchronize on the class object, causing any other thread * that attempts to initiate shutdown to stall indefinitely" />
-      <item value="Halt immediately on nonzero status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
