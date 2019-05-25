@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The set of profiles for which the annotated component should be registered." />
       <item value="non-compatible bean definition of same name and class" />
       <item value="conflicts with existing" />
       <item value="Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation." />
@@ -50,12 +51,11 @@
       <item value="Halt immediately on nonzero status" />
       <item value="Withdraw" />
       <item value="Verify" />
-      <item value="Execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
       </map>
