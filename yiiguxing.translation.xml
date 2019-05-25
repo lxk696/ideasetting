@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shardingsphere" />
       <item value="Could not determine which parameter to assign generated keys to. Note that when there are multiple parameters, 'keyProperty' must include the parameter name (e.g. 'param.id'). Specified key properties are [iitt] and available parameters are [arg0, list, param1, param2]" />
       <item value="Could not determine which parameter to assign generated keys to. Note that when there are multiple parameters, 'keyProperty' must include the parameter name (e.g. 'param.id'). Specified key properties are [iitt] and available parameters are [predicate, list, param1, param2]" />
       <item value="Batch" />
@@ -50,14 +51,14 @@
       <item value="Consider defining a bean named 'entityManagerFactory' in your configuration." />
       <item value="Module directive expected" />
       <item value="indicates abnormal termination." />
-      <item value="Termination status. By convention, a nonzero status code * indicates abnormal termination. *" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
+        <entry key="CHINESE" value="117" />
         <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
+        <entry key="HINDI" value="1" />
       </map>
     </option>
   </component>
