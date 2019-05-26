@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tenant" />
       <item value="analyzer" />
       <item value="shardingsphere" />
       <item value="Could not determine which parameter to assign generated keys to. Note that when there are multiple parameters, 'keyProperty' must include the parameter name (e.g. 'param.id'). Specified key properties are [iitt] and available parameters are [arg0, list, param1, param2]" />
@@ -17,7 +18,6 @@
       <item value="In AnnotationAttributes for annotation [org.springframework.context.annotation.Bean] declared on public org.springframework.scheduling.annotation.ScheduledAnnotationBeanPostProcessor org.springframework.scheduling.annotation.SchedulingConfiguration.scheduledAnnotationProcessor(), attribute 'name' and its alias 'value' are declared with values of [{org.springframework.context.annotation.internalScheduledAnnotationProcessor}] and [{}], but only one is permitted." />
       <item value="Determine the encoding for the given request. * Can be overridden in subclasses. * &lt;p&gt;The default implementation checks the request encoding, * falling back to the default encoding specified for this resolver." />
       <item value="Thread starvation or clock leap detected (housekeeper delta=1m4s505ms136µs153ns)" />
-      <item value="tenant" />
       <item value="representation" />
       <item value="DOT_" />
       <item value=" Injection" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="HINDI" value="1" />
