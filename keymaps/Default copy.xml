@@ -40,4 +40,7 @@
   <action id="ShowFilterPopup" />
   <action id="SonarLint.AnalyzeFiles" />
   <action id="Unwrap" />
+  <action id="WelcomeScreen.Configure.Import">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
+  </action>
 </keymap>
