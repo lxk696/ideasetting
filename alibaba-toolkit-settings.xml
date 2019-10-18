@@ -1,0 +1,8 @@
+<application>
+  <component name="DockerStore">
+    <option name="dockerAuth" value="true" />
+    <option name="dockerConnectionType" value="TCP" />
+    <option name="dockerPath" value="C:\Users\Administrator\.docker\machine\machines\default" />
+    <option name="dockerUri" value="https://192.168.99.100:2376" />
+  </component>
+</application>

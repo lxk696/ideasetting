@@ -1,0 +1,9 @@
+<templateSet group="lxk-customer-scala">
+  <template name="time" value="val startTime = System.currentTimeMillis()&#10;LOG.info(&quot;$msgs$ cost time is [{}]&quot;, System.currentTimeMillis() - startTime)" description="耗时日志" toReformat="false" toShortenFQNames="true">
+    <variable name="msgs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SCALA_CODE" value="true" />
+      <option name="SCALA_STRING" value="true" />
+    </context>
+  </template>
+</templateSet>

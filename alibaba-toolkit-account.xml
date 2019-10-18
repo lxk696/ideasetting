@@ -1,0 +1,19 @@
+<application>
+  <component name="AccountStore">
+    <option name="accountString" value="{&quot;lxk-ecs&quot;:{&quot;profileName&quot;:&quot;lxk-ecs&quot;,&quot;ak&quot;:&quot;LTAIDdZqktAqqN99&quot;,&quot;secret&quot;:&quot;K6MAqyaIvCUAij9i4G7yGHKT8PV4Vb&quot;,&quot;show&quot;:false}}" />
+    <option name="allAccount">
+      <map>
+        <entry key="lxk-ecs">
+          <value>
+            <AccountModel>
+              <option name="ak" value="LTAIDdZqktAqqN99" />
+              <option name="profileName" value="lxk-ecs" />
+              <option name="secret" value="K6MAqyaIvCUAij9i4G7yGHKT8PV4Vb" />
+            </AccountModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="defaultProfile" value="lxk-ecs" />
+  </component>
+</application>

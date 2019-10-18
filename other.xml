@@ -1,0 +1,129 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="F:/itsoft/nodejs/node.exe" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Microsoft YaHei" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="#xdebugger.evaluate.splitter" value="0.5806962" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BackgroundImagesFolder" value="C:\Users\Public\Pictures\Sample Pictures\bj2" />
+    <property name="BackgroundImagesKeepSameImage" value="true" />
+    <property name="BackgroundImagesRadioButton" value="idea.background.frame" />
+    <property name="CUSTOMIZE_ACTIONS" value="STRING" />
+    <property name="ColorChooser.RecentColors" value="23-255-67-255,,,12-255-77-255,,,24-255-53-255,,,29-255-63-255,,,45-240-48-255,,,38-255-107-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.85971224" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.82300884" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConsoleQuickFilterPanel-expression" value="" />
+    <property name="ConsoleQuickFilterPanel-unlessExpression" value="" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Darcula.SavedEditorTheme" value="Xcode Midnight" />
+    <property name="ECS_VIEW_DEFAULT_REGION_ID" value="cn-shenzhen" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FC_SELECTED_REGION_ID" value="cn-shenzhen" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.24568394" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.22050716" />
+    <property name="InstalledPluginsSearchHistory" value="command&#10;alibaba&#10;aliba&#10;alib&#10;ali" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="string m" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.11737089" />
+    <property name="LiveContextsPanel[1]" value="0.1330672" />
+    <property name="MarketplacePluginsSearchHistory" value="aliba" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="RDS_VIEW_DEFAULT_REGION_ID" value="cn-beijing" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SettingsSearchHistory" value="comment&#10;line&#10;java&#10;command&#10;alibaba" />
+    <property name="SplitFileEditor.Proportion" value="0.7299218" />
+    <property name="SpringBeansModulesPanel[0]" value="0.22050716" />
+    <property name="TrendingPluginsSearchHistory" value="eclipse&#10;format&#10;findbugs&#10;sonar&#10;console" />
+    <property name="UpdatePluginsSearchHistory" value="eclipse" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="2.3.8" />
+    <property name="com.alibabacloud.intellij.deviceId_new" value="07fea80b-860d-474f-a422-5828735c6897" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="evlsprt3.191" value="18" />
+    <property name="file.chooser.recent.files" value="F:/itsoft/workspace_idea/00a-my-test/gitrun/pom.xml&#10;F:/itsoft/workspace_idea/ecs/ecs/ecs-biz/src/main/java&#10;F:/itsoft/workspace_idea/ecs/ecs/ecs-biz/src/main/java/MyWallpaper.java&#10;F:/itsoft/java11&#10;F:/itsoft/java8&#10;F:/itsoft/IntelliJ IDEA 2019.1.2/eclipse-java-bbt-style.xml&#10;F:/itsoft/apache-tomcat-9.0.26&#10;F:/itsoft/apache-tomcat-9.0.26/apache-tomcat-9.0.26&#10;F:/itsoft/apache-tomcat-8.0.41&#10;F:/itsoft/workspace_idea/ecs/ecs&#10;F:/itsoft/workspace_idea/ecs&#10;F:/itsoft/workspace_idea/LV65_dmmp_es-portal&#10;F:/itsoft/workspace_idea/scala-test/out&#10;F:/itsoft/workspace_idea/scala-test&#10;F:/itsoft/sbt/bin/sbt-launch.jar&#10;F:/itsoft/scala2.12.4&#10;F:/itsoft/workspace_idea/handler&#10;F:/itsoft/workspace_idea/ecs/ecs/pom.xml&#10;F:/itsoft/workspace_maven/bbt-message-20180223&#10;F:/itsoft/workspace_idea/sb-project-demos-all&#10;F:/itsoft/workspace_idea/sb-project-demos/springboot-learning-example&#10;F:/itsoft/workspace_idea/springboot-learning-example&#10;F:/itsoft/workspace_idea/springboot-elasticsearch/essearch/pom.xml&#10;F:/itsoft/workspace_idea/springboot-elasticsearch/README.md&#10;F:/itsoft/workspace_idea/sb-project-demos/spring-batch-demo-master&#10;F:/itsoft/workspace_idea/mybatis-plus-samples&#10;F:/itsoft/workspace_idea/mybatisplus-spring-boot&#10;F:/itsoft/java-8u191&#10;F:/itsoft/java-8u191/bin/jvisualvm.exe&#10;C:/Users/Public/Pictures/Sample Pictures/bj2/58eaed279c59f.jpg" />
+    <property name="file.gist.reindex.count" value="16178" />
+    <property name="fileTypeChangedCounter" value="7" />
+    <property name="idea.background.editor" value="C:\Users\Public\Pictures\Sample Pictures\bj2\58eaed279c59f.jpg,37,scale,center" />
+    <property name="ideavim.statistics.timestamp" value="1559144956764" />
+    <property name="installed.kotlin.plugin.version" value="1.3.41-release-IJ2019.2-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.41-release-IJ2019.2-1:2019-07-03" />
+    <property name="krasa.grepconsole.gui.CompositeSettingsDialog" value="751" />
+    <property name="last.imported.location" value="F:/itsoft/workspace_idea/ecs" />
+    <property name="lastTip" value="5" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="C:\Users\Administrator\Desktop\hands-sky-dancer-Michael-Jackson-event-entertainment-791973-wallhere.com.jpg&#10;C:\Users\Administrator\Desktop\ART-bouno-satoshi-girl-face-white-background-graphic-1010568-wallhere.com.jpg&#10;C:\Users\Administrator\Desktop\58eaed279c59f.jpg&#10;C:\Users\Public\Pictures\Sample Pictures\bj2&#10;C:\Users\Public\Pictures\Sample Pictures\bj2\58eaed279c59f.jpg" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1570938076490" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="scala.last.updated" value="1567847326994" />
+    <property name="selected.color.option.type" value="SQL_EXTERNAL_TOOL" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.5.2" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.5998004" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://192.168.0.3:8443/svn/DevelopmentDepart/police/15027_BZH/new_trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://192.168.0.3:8443/svn/DevelopmentDepart/police/15027_BZH/new_trunk" />
+      </list>
+    </option>
+  </component>
+</application>

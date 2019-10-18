@@ -1,0 +1,7 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectName="ecs" firstStartUp="false" />
+    <entry projectName="gitrun" firstStartUp="false" />
+  </component>
+</application>

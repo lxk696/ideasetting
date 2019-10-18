@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="F:/itsoft/java-8u191" />
+    <option name="visualVmExecutable" value="F:/itsoft/java-8u191/bin/jvisualvm.exe" />
+  </component>
+</application>

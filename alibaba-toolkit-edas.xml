@@ -1,0 +1,29 @@
+<application>
+  <component name="EdasStore">
+    <option name="serviceConnectMap">
+      <map>
+        <entry key="ecs">
+          <value>
+            <EdasServiceConnectModel>
+              <option name="namespace">
+                <EdasNamespaceModel>
+                  <option name="namespaceId" value="-1" />
+                  <option name="namespaceName" value="Select a namespace" />
+                </EdasNamespaceModel>
+              </option>
+              <option name="region">
+                <EdasRegionModel>
+                  <option name="regionId" value="cn-qingdao" />
+                  <option name="regionName" value="华北 1(青岛)" />
+                </EdasRegionModel>
+              </option>
+              <option name="sshGatewayIp" value="" />
+              <option name="sshPassword" value="" />
+              <option name="sshUser" value="" />
+            </EdasServiceConnectModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
